@@ -1,8 +1,7 @@
 # 📚 Books Scraper & Market Analysis Dashboard
 
 ## 🚀 Live Demo
-🔗 https://your-app.streamlit.app  
-*(Add your deployed Streamlit link here)*
+🔗 https://books-market-analysis-2ppcazcvlctbbqygwpw72c.streamlit.app/
 
 ---
 
